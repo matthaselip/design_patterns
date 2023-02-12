@@ -1,2 +1,2 @@
-# strategy_pattern
-php strategy pattern explained
+# design patterns
+Will attempt to dive into each design pattern with examples
